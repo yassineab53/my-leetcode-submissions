@@ -1,5 +1,5 @@
-class Solution(object):
-    def isValid(self, s):
+class Solution:
+    def isValid(self, s: str) -> bool:
         stack = []
         bracket_map = {')': '(', '}': '{', ']': '['}
 
@@ -13,5 +13,3 @@ class Solution(object):
                 return False
 
         return not stack
-
-        
