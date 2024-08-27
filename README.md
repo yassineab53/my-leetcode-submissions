@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yassine4real/my-leetcode-submissions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/yassine4real/my-leetcode-submissions/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/yassine4real/my-leetcode-submissions/tree/master/0136-single-number) |
 | [1580-shuffle-the-array](https://github.com/yassine4real/my-leetcode-submissions/tree/master/1580-shuffle-the-array) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yassine4real/my-leetcode-submissions/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yassine4real/my-leetcode-submissions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
